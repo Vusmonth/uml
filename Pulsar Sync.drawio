@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T20:21:38.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="6WrrQMbzfSQjWD3tqlSp" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-13T20:24:47.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="LZOlq55ssgn3Ut1kWoQh" version="22.1.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Primeira sincronização">
     <mxGraphModel dx="2846" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I1425I6Q4lxcdnc3qopk" name="Emissão de eventos">
-    <mxGraphModel dx="2616" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2300" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,8 +197,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="joNZeOUB0Fmhq8nzCsPN-3" value="&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;//Recebe o ID do client que enviou o evento&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;e&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;procura&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;na base de dados se ele faz parte de algum grupo de rádios&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;caso sim, devolve os IDs do grupo que o client participa,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;para&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;que o servidor saiba quem precisa receber esse evento emitido&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="-544.25" y="610" width="350" height="120" as="geometry" />
+        <mxCell id="joNZeOUB0Fmhq8nzCsPN-3" value="&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;Recebe o ID do client que enviou o evento&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;e&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;procura&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;na base de dados se ele faz parte de algum grupo de rádios&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;caso sim, devolve os IDs do grupo que o client participa,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;para&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;que o servidor saiba quem precisa receber esse evento emitido&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#E6E6E6;fontSize=20;fontFamily=Architects Daughter;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="-556.5" y="609" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="joNZeOUB0Fmhq8nzCsPN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=1.009;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BHCw4KZOJO7cibhPzfV9-1" target="ZoaKxBdLKp1PREuJ3JFW-11">
           <mxGeometry relative="1" as="geometry" />
