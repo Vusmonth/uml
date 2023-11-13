@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T20:24:47.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="LZOlq55ssgn3Ut1kWoQh" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-13T20:43:16.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="goC9X9CXGcdhaRCTN9Sh" version="22.1.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Primeira sincronização">
     <mxGraphModel dx="2846" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,9 +95,6 @@
             <mxPoint x="-1100" y="440" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jRsQkOjOdsNTi6uR8f5m-67" value="Fluxo de sincronização após conexão" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;imageAlign=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-995" y="30" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HvJhu8RIFM7844xApChd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HvJhu8RIFM7844xApChd-0" target="jRsQkOjOdsNTi6uR8f5m-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
